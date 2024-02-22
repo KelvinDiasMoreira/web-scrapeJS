@@ -2,9 +2,10 @@ import axios from "axios";
 import fs from "fs";
 import { createWorker } from "./utils/createWorker.js";
 
-const stockSearch = [40, 40, 40, 40];
-const workPromises = [];
 const THREADS = 4;
+const stockSearch = [70, 70, 70, 70];
+const workersPromises = [];
+const arrayToJson = []
 
 const getStocks = async () => {
   try {
@@ -26,7 +27,7 @@ if (!stocks.length) {
 }
 
 for (let i = 0; i < THREADS; i++) {
-  workPromises.push(
+  workersPromises.push(
     createWorker(
       stockSearch[i],
       stocks.length,
@@ -35,9 +36,8 @@ for (let i = 0; i < THREADS; i++) {
   );
 }
 
-const workPromisesResult = await Promise.all(workPromises);
+const workPromisesResult = await Promise.all(workersPromises);
 
-const arrayToJson = []
 for (let i = 0; i < workPromisesResult.length; i++) {
   for (let j = 0; j < workPromisesResult[i].length; j++) {
     arrayToJson.push(workPromisesResult[i][j])
@@ -45,7 +45,7 @@ for (let i = 0; i < workPromisesResult.length; i++) {
 }
 
 fs.writeFile(
-  "./data.json",
+  "../data.json",
   JSON.stringify(arrayToJson, null, 4),
   "utf8",
   (err) => {
@@ -53,4 +53,4 @@ fs.writeFile(
   }
 );
 
-console.log("all good!");
+console.log("all good!, time: " + performance.now());

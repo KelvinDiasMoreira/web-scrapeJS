@@ -2,7 +2,7 @@ import * as cheerio from "cheerio";
 import axios from "axios";
 import { parentPort, workerData } from "node:worker_threads";
 
-import {newNames, searchInArray} from './helpers.js'
+import { newNames, searchInArray } from "./helpers/helpersObjects.js";
 
 const setItensArray = searchInArray.map((_, i) => ({
   [i === 0 ? i : i % 2 === 0 && i]: { name: `${newNames[i]}` },
