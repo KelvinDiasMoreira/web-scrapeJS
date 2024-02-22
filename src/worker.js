@@ -1,7 +1,6 @@
 import * as cheerio from "cheerio";
 import axios from "axios";
 import { parentPort, workerData } from "node:worker_threads";
-
 import { newNames, searchInArray } from "./helpers/helpersObjects.js";
 
 const setItensArray = searchInArray.map((_, i) => ({
@@ -10,12 +9,12 @@ const setItensArray = searchInArray.map((_, i) => ({
 
 const dataToJson = [];
 
-const getData = async (stockToSearch) => {
+const URL = MISTERY
+
+
+const extractData = async (stockToSearch) => {
   try {
-    console.log(`Catching data of ${stockToSearch} ....`);
-    const { data } = await axios.get(
-      `https://investidor10.com.br/acoes/${stockToSearch}/`
-    );
+    const { data } = await axios.get(`${URL}${stockToSearch}/`);
     const $ = cheerio.load(data);
     const sectionCards = $("#cards-ticker span");
     const dataSectionCards = [];
@@ -31,6 +30,7 @@ const getData = async (stockToSearch) => {
       }
     }
     dataToJson.push({ [stockToSearch]: dataFormatted });
+    console.log(`Success on getting data of stock: ${stockToSearch}`);
   } catch (err) {
     if (err) {
       console.log(`not found stock ${stockToSearch}`);
@@ -39,7 +39,7 @@ const getData = async (stockToSearch) => {
 };
 
 for (let i = 0; i < workerData.stocksToSearch.length; i++) {
-  await getData(workerData.stocksToSearch[i]);
+  await extractData(workerData.stocksToSearch[i]);
 }
 
 parentPort.postMessage(dataToJson);

@@ -345,8 +345,8 @@
         "PCAR3": {
             "cotacion": "R$ 4,27",
             "variation": "-75,46%",
-            "pricePerL": "-0,40",
-            "pricePerVp": "0,23",
+            "pricePerL": "-0,54",
+            "pricePerVp": "0,24",
             "yield": "-"
         }
     },
@@ -786,8 +786,8 @@
         "AERI3": {
             "cotacion": "R$ 0,77",
             "variation": "-37,40%",
-            "pricePerL": "-8,74",
-            "pricePerVp": "1,17",
+            "pricePerL": "-8,98",
+            "pricePerVp": "0,84",
             "yield": "-"
         }
     },
@@ -2085,6 +2085,1131 @@
             "pricePerL": "12,83",
             "pricePerVp": "0,36",
             "yield": "-"
+        }
+    },
+    {
+        "ITSA3": {
+            "cotacion": "R$ 10,73",
+            "variation": "33,18%",
+            "pricePerL": "8,03",
+            "pricePerVp": "1,39",
+            "yield": "5,36%"
+        }
+    },
+    {
+        "LUPA3": {
+            "cotacion": "R$ 1,90",
+            "variation": "-69,89%",
+            "pricePerL": "2,17",
+            "pricePerVp": "0,49",
+            "yield": "-"
+        }
+    },
+    {
+        "PFRM3": {
+            "cotacion": "R$ 4,90",
+            "variation": "52,74%",
+            "pricePerL": "13,03",
+            "pricePerVp": "0,48",
+            "yield": "7,83%"
+        }
+    },
+    {
+        "BRBI11": {
+            "cotacion": "R$ 15,42",
+            "variation": "55,65%",
+            "pricePerL": "10,44",
+            "pricePerVp": "1,97",
+            "yield": "8,53%"
+        }
+    },
+    {
+        "PORT3": {
+            "cotacion": "R$ 17,00",
+            "variation": "77,77%",
+            "pricePerL": "18,84",
+            "pricePerVp": "3,25",
+            "yield": "4,52%"
+        }
+    },
+    {
+        "PDTC3": {
+            "cotacion": "R$ 3,06",
+            "variation": "29,11%",
+            "pricePerL": "10,62",
+            "pricePerVp": "1,58",
+            "yield": "-"
+        }
+    },
+    {
+        "BIOM3": {
+            "cotacion": "R$ 8,00",
+            "variation": "53,55%",
+            "pricePerL": "-8,34",
+            "pricePerVp": "7,20",
+            "yield": "-"
+        }
+    },
+    {
+        "SANB3": {
+            "cotacion": "R$ 13,64",
+            "variation": "3,35%",
+            "pricePerL": "10,79",
+            "pricePerVp": "0,89",
+            "yield": "5,60%"
+        }
+    },
+    {
+        "DMVF3": {
+            "cotacion": "R$ 5,92",
+            "variation": "58,71%",
+            "pricePerL": "19,88",
+            "pricePerVp": "0,35",
+            "yield": "-"
+        }
+    },
+    {
+        "SANB4": {
+            "cotacion": "R$ 15,26",
+            "variation": "1,60%",
+            "pricePerL": "12,07",
+            "pricePerVp": "1,00",
+            "yield": "5,47%"
+        }
+    },
+    {
+        "GGBR3": {
+            "cotacion": "R$ 20,10",
+            "variation": "-5,02%",
+            "pricePerL": "4,71",
+            "pricePerVp": "0,72",
+            "yield": "8,04%"
+        }
+    },
+    {
+        "CSUD3": {
+            "cotacion": "R$ 19,25",
+            "variation": "94,43%",
+            "pricePerL": "9,32",
+            "pricePerVp": "1,95",
+            "yield": "5,30%"
+        }
+    },
+    {
+        "RSID3": {
+            "cotacion": "R$ 3,69",
+            "variation": "19,03%",
+            "pricePerL": "-0,14",
+            "pricePerVp": "-0,06",
+            "yield": "-"
+        }
+    },
+    {
+        "AURA33": {
+            "cotacion": "R$ 30,88",
+            "variation": "-9,29%",
+            "pricePerL": "13,49",
+            "pricePerVp": "1,43",
+            "yield": "6,09%"
+        }
+    },
+    {
+        "EUCA4": {
+            "cotacion": "R$ 16,51",
+            "variation": "63,19%",
+            "pricePerL": "5,56",
+            "pricePerVp": "0,69",
+            "yield": "5,61%"
+        }
+    },
+    {
+        "TECN3": {
+            "cotacion": "R$ 3,37",
+            "variation": "29,62%",
+            "pricePerL": "4,52",
+            "pricePerVp": "0,63",
+            "yield": "4,39%"
+        }
+    },
+    {
+        "BRAP3": {
+            "cotacion": "R$ 20,26",
+            "variation": "-12,31%",
+            "pricePerL": "3,75",
+            "pricePerVp": "0,99",
+            "yield": "13,41%"
+        }
+    },
+    {
+        "AALR3": {
+            "cotacion": "R$ 8,90",
+            "variation": "-60,39%",
+            "pricePerL": "-4,00",
+            "pricePerVp": "1,04",
+            "yield": "-"
+        }
+    },
+    {
+        "DEXP3": {
+            "cotacion": "R$ 12,49",
+            "variation": "70,46%",
+            "pricePerL": "7,36",
+            "pricePerVp": "1,70",
+            "yield": "3,06%"
+        }
+    },
+    {
+        "ATOM3": {
+            "cotacion": "R$ 1,91",
+            "variation": "-8,39%",
+            "pricePerL": "-554,48",
+            "pricePerVp": "0,25",
+            "yield": "16,10%"
+        }
+    },
+    {
+        "CTNM4": {
+            "cotacion": "R$ 1,37",
+            "variation": "-12,74%",
+            "pricePerL": "-0,09",
+            "pricePerVp": "0,17",
+            "yield": "-"
+        }
+    },
+    {
+        "COCE5": {
+            "cotacion": "R$ 43,50",
+            "variation": "-6,90%",
+            "pricePerL": "6,30",
+            "pricePerVp": "0,80",
+            "yield": "0,72%"
+        }
+    },
+    {
+        "RNEW3": {
+            "cotacion": "R$ 1,40",
+            "variation": "-32,37%",
+            "pricePerL": "0,57",
+            "pricePerVp": "0,43",
+            "yield": "-"
+        }
+    },
+    {
+        "INEP4": {
+            "cotacion": "R$ 3,15",
+            "variation": "-40,00%",
+            "pricePerL": "-0,37",
+            "pricePerVp": "-0,08",
+            "yield": "-"
+        }
+    },
+    {
+        "CAMB3": {
+            "cotacion": "R$ 10,91",
+            "variation": "64,85%",
+            "pricePerL": "6,01",
+            "pricePerVp": "2,10",
+            "yield": "2,00%"
+        }
+    },
+    {
+        "ELMD3": {
+            "cotacion": "R$ 17,19",
+            "variation": "38,74%",
+            "pricePerL": "41,32",
+            "pricePerVp": "3,01",
+            "yield": "-"
+        }
+    },
+    {
+        "TPIS3": {
+            "cotacion": "R$ 3,72",
+            "variation": "11,88%",
+            "pricePerL": "-2,62",
+            "pricePerVp": "0,19",
+            "yield": "4,95%"
+        }
+    },
+    {
+        "EPAR3": {
+            "cotacion": "R$ 9,73",
+            "variation": "40,63%",
+            "pricePerL": "2,48",
+            "pricePerVp": "1,17",
+            "yield": "39,95%"
+        }
+    },
+    {
+        "PMAM3": {
+            "cotacion": "R$ 3,80",
+            "variation": "-22,13%",
+            "pricePerL": "-0,05",
+            "pricePerVp": "-0,04",
+            "yield": "-"
+        }
+    },
+    {
+        "TXRX4": {
+            "cotacion": "R$ 2,80",
+            "variation": "-8,20%",
+            "pricePerL": "-0,40",
+            "pricePerVp": "-0,03",
+            "yield": "-"
+        }
+    },
+    {
+        "BMEB4": {
+            "cotacion": "R$ 26,85",
+            "variation": "184,77%",
+            "pricePerL": "7,10",
+            "pricePerVp": "1,79",
+            "yield": "6,30%"
+        }
+    },
+    {
+        "INEP3": {
+            "cotacion": "R$ 3,76",
+            "variation": "-43,88%",
+            "pricePerL": "-0,45",
+            "pricePerVp": "-0,09",
+            "yield": "-"
+        }
+    },
+    {
+        "BRKM3": {
+            "cotacion": "R$ 19,85",
+            "variation": "-2,70%",
+            "pricePerL": "-3,36",
+            "pricePerVp": "3,15",
+            "yield": "-"
+        }
+    },
+    {
+        "TEKA4": {
+            "cotacion": "R$ 32,50",
+            "variation": "118,86%",
+            "pricePerL": "-0,11",
+            "pricePerVp": "-0,01",
+            "yield": "-"
+        }
+    },
+    {
+        "G2DI33": {
+            "cotacion": "R$ 1,90",
+            "variation": "-5,94%",
+            "pricePerL": "3,19",
+            "pricePerVp": "0,26",
+            "yield": "-"
+        }
+    },
+    {
+        "CRIV4": {
+            "cotacion": "R$ 6,11",
+            "variation": "26,05%",
+            "pricePerL": "26,97",
+            "pricePerVp": "0,60",
+            "yield": "3,38%"
+        }
+    },
+    {
+        "UCAS3": {
+            "cotacion": "R$ 2,64",
+            "variation": "5,18%",
+            "pricePerL": "12,81",
+            "pricePerVp": "0,89",
+            "yield": "-"
+        }
+    },
+    {
+        "TELB4": {
+            "cotacion": "R$ 10,41",
+            "variation": "10,86%",
+            "pricePerL": "-13,24",
+            "pricePerVp": "0,57",
+            "yield": "-"
+        }
+    },
+    {
+        "NINJ3": {
+            "cotacion": "R$ 5,05",
+            "variation": "87,73%",
+            "pricePerL": "85,77",
+            "pricePerVp": "0,90",
+            "yield": "-"
+        }
+    },
+    {
+        "LOGN3": {
+            "cotacion": "R$ 37,05",
+            "variation": "6,47%",
+            "pricePerL": "10,32",
+            "pricePerVp": "4,05",
+            "yield": "-"
+        }
+    },
+    {
+        "BOBR4": {
+            "cotacion": "R$ 2,44",
+            "variation": "112,17%",
+            "pricePerL": "5,92",
+            "pricePerVp": "-8,83",
+            "yield": "-"
+        }
+    },
+    {
+        "ALPA3": {
+            "cotacion": "R$ 9,97",
+            "variation": "-1,77%",
+            "pricePerL": "-3,65",
+            "pricePerVp": "1,83",
+            "yield": "-"
+        }
+    },
+    {
+        "ALUP4": {
+            "cotacion": "R$ 9,73",
+            "variation": "13,05%",
+            "pricePerL": "11,95",
+            "pricePerVp": "1,18",
+            "yield": "6,17%"
+        }
+    },
+    {
+        "WHRL4": {
+            "cotacion": "R$ 4,65",
+            "variation": "5,81%",
+            "pricePerL": "19,61",
+            "pricePerVp": "2,73",
+            "yield": "8,12%"
+        }
+    },
+    {
+        "RAPT3": {
+            "cotacion": "R$ 10,63",
+            "variation": "41,73%",
+            "pricePerL": "8,42",
+            "pricePerVp": "1,19",
+            "yield": "5,54%"
+        }
+    },
+    {
+        "CTSA4": {
+            "cotacion": "R$ 1,74",
+            "variation": "12,26%",
+            "pricePerL": "-1,63",
+            "pricePerVp": "0,35",
+            "yield": "-"
+        }
+    },
+    {
+        "FHER3": {
+            "cotacion": "R$ 5,75",
+            "variation": "-66,76%",
+            "pricePerL": "-0,77",
+            "pricePerVp": "7,94",
+            "yield": "-"
+        }
+    },
+    {
+        "ALLD3": {
+            "cotacion": "R$ 6,87",
+            "variation": "50,89%",
+            "pricePerL": "8,42",
+            "pricePerVp": "0,41",
+            "yield": "14,22%"
+        }
+    },
+    {
+        "IGTI4": {
+            "cotacion": "R$ 10,49",
+            "variation": "37,49%",
+            "pricePerL": "42,16",
+            "pricePerVp": "3,08",
+            "yield": "1,53%"
+        }
+    },
+    {
+        "CEBR5": {
+            "cotacion": "R$ 18,70",
+            "variation": "97,54%",
+            "pricePerL": "6,92",
+            "pricePerVp": "1,29",
+            "yield": "14,14%"
+        }
+    },
+    {
+        "ENGI4": {
+            "cotacion": "R$ 8,42",
+            "variation": "29,85%",
+            "pricePerL": "11,41",
+            "pricePerVp": "1,60",
+            "yield": "5,97%"
+        }
+    },
+    {
+        "TASA3": {
+            "cotacion": "R$ 14,16",
+            "variation": "3,30%",
+            "pricePerL": "7,75",
+            "pricePerVp": "1,62",
+            "yield": "9,79%"
+        }
+    },
+    {
+        "CGRA3": {
+            "cotacion": "R$ 25,90",
+            "variation": "-8,90%",
+            "pricePerL": "6,06",
+            "pricePerVp": "0,59",
+            "yield": "5,60%"
+        }
+    },
+    {
+        "TRPL3": {
+            "cotacion": "R$ 32,95",
+            "variation": "22,79%",
+            "pricePerL": "7,64",
+            "pricePerVp": "1,25",
+            "yield": "7,00%"
+        }
+    },
+    {
+        "BEES3": {
+            "cotacion": "R$ 9,63",
+            "variation": "68,76%",
+            "pricePerL": "8,85",
+            "pricePerVp": "1,44",
+            "yield": "6,84%"
+        }
+    },
+    {
+        "BRIV4": {
+            "cotacion": "R$ 11,25",
+            "variation": "24,58%",
+            "pricePerL": "190,55",
+            "pricePerVp": "0,59",
+            "yield": "2,47%"
+        }
+    },
+    {
+        "CEBR6": {
+            "cotacion": "R$ 22,45",
+            "variation": "144,96%",
+            "pricePerL": "8,31",
+            "pricePerVp": "1,55",
+            "yield": "13,04%"
+        }
+    },
+    {
+        "BPAC3": {
+            "cotacion": "R$ 18,94",
+            "variation": "78,52%",
+            "pricePerL": "21,96",
+            "pricePerVp": "4,41",
+            "yield": "1,41%"
+        }
+    },
+    {
+        "DOTZ3": {
+            "cotacion": "R$ 7,23",
+            "variation": "-26,22%",
+            "pricePerL": "-11,46",
+            "pricePerVp": "-4,30",
+            "yield": "-"
+        }
+    },
+    {
+        "ALUP3": {
+            "cotacion": "R$ 9,77",
+            "variation": "15,59%",
+            "pricePerL": "11,99",
+            "pricePerVp": "1,18",
+            "yield": "6,11%"
+        }
+    },
+    {
+        "JFEN3": {
+            "cotacion": "R$ 1,80",
+            "variation": "-47,06%",
+            "pricePerL": "-0,86",
+            "pricePerVp": "-0,06",
+            "yield": "-"
+        }
+    },
+    {
+        "REDE3": {
+            "cotacion": "R$ 6,90",
+            "variation": "46,08%",
+            "pricePerL": "10,01",
+            "pricePerVp": "2,49",
+            "yield": "10,23%"
+        }
+    },
+    {
+        "LVTC3": {
+            "cotacion": "R$ 3,95",
+            "variation": "-49,03%",
+            "pricePerL": "-483,75",
+            "pricePerVp": "0,40",
+            "yield": "-"
+        }
+    },
+    {
+        "CEBR3": {
+            "cotacion": "R$ 20,43",
+            "variation": "123,25%",
+            "pricePerL": "7,56",
+            "pricePerVp": "1,41",
+            "yield": "13,13%"
+        }
+    },
+    {
+        "WLMM4": {
+            "cotacion": "R$ 26,51",
+            "variation": "18,75%",
+            "pricePerL": "9,14",
+            "pricePerVp": "1,44",
+            "yield": "3,25%"
+        }
+    },
+    {
+        "SNSY3": {
+            "cotacion": "R$ 10,47",
+            "variation": "151,68%",
+            "pricePerL": "-0,98",
+            "pricePerVp": "-0,07",
+            "yield": "-"
+        }
+    },
+    {
+        "BPAC5": {
+            "cotacion": "R$ 9,48",
+            "variation": "79,98%",
+            "pricePerL": "10,99",
+            "pricePerVp": "2,21",
+            "yield": "2,79%"
+        }
+    },
+    {
+        "VSTE3": {
+            "cotacion": "R$ 14,90",
+            "variation": "20,09%",
+            "pricePerL": "7,11",
+            "pricePerVp": "1,64",
+            "yield": "0,75%"
+        }
+    },
+    {
+        "HAGA4": {
+            "cotacion": "R$ 1,04",
+            "variation": "8,33%",
+            "pricePerL": "1,71",
+            "pricePerVp": "-0,22",
+            "yield": "-"
+        }
+    },
+    {
+        "UNIP3": {
+            "cotacion": "R$ 63,64",
+            "variation": "-11,62%",
+            "pricePerL": "8,52",
+            "pricePerVp": "2,35",
+            "yield": "5,00%"
+        }
+    },
+    {
+        "SNSY5": {
+            "cotacion": "R$ 4,95",
+            "variation": "67,80%",
+            "pricePerL": "-0,46",
+            "pricePerVp": "-0,03",
+            "yield": "-"
+        }
+    },
+    {
+        "TELB3": {
+            "cotacion": "R$ 15,94",
+            "variation": "10,77%",
+            "pricePerL": "-20,28",
+            "pricePerVp": "0,87",
+            "yield": "-"
+        }
+    },
+    {
+        "CEDO3": {
+            "cotacion": "R$ 24,84",
+            "variation": "328,28%",
+            "pricePerL": "3,88",
+            "pricePerVp": "1,34",
+            "yield": "-"
+        }
+    },
+    {
+        "MNPR3": {
+            "cotacion": "R$ 17,83",
+            "variation": "206,36%",
+            "pricePerL": "-31,37",
+            "pricePerVp": "-0,39",
+            "yield": "-"
+        }
+    },
+    {
+        "NUTR3": {
+            "cotacion": "R$ 5,60",
+            "variation": "86,67%",
+            "pricePerL": "19,39",
+            "pricePerVp": "2,25",
+            "yield": "-"
+        }
+    },
+    {
+        "OSXB3": {
+            "cotacion": "R$ 5,18",
+            "variation": "-13,81%",
+            "pricePerL": "-0,04",
+            "pricePerVp": "-",
+            "yield": "-"
+        }
+    },
+    {
+        "HETA4": {
+            "cotacion": "R$ 6,20",
+            "variation": "55,39%",
+            "pricePerL": "0,02",
+            "pricePerVp": "-0,01",
+            "yield": "-"
+        }
+    },
+    {
+        "ENGI3": {
+            "cotacion": "R$ 16,23",
+            "variation": "28,13%",
+            "pricePerL": "22,00",
+            "pricePerVp": "3,08",
+            "yield": "3,10%"
+        }
+    },
+    {
+        "CRPG5": {
+            "cotacion": "R$ 36,27",
+            "variation": "67,75%",
+            "pricePerL": "15,82",
+            "pricePerVp": "1,52",
+            "yield": "2,43%"
+        }
+    },
+    {
+        "FRTA3": {
+            "cotacion": "R$ 1,47",
+            "variation": "-42,35%",
+            "pricePerL": "-0,53",
+            "pricePerVp": "-0,04",
+            "yield": "-"
+        }
+    },
+    {
+        "BRSR3": {
+            "cotacion": "R$ 15,05",
+            "variation": "43,97%",
+            "pricePerL": "6,08",
+            "pricePerVp": "0,62",
+            "yield": "6,06%"
+        }
+    },
+    {
+        "SCAR3": {
+            "cotacion": "R$ 26,41",
+            "variation": "109,44%",
+            "pricePerL": "40,99",
+            "pricePerVp": "1,00",
+            "yield": "-"
+        }
+    },
+    {
+        "AVLL3": {
+            "cotacion": "R$ 4,99",
+            "variation": "-50,59%",
+            "pricePerL": "-0,31",
+            "pricePerVp": "-0,22",
+            "yield": "-"
+        }
+    },
+    {
+        "RDNI3": {
+            "cotacion": "R$ 4,27",
+            "variation": "-20,89%",
+            "pricePerL": "-3,64",
+            "pricePerVp": "0,32",
+            "yield": "3,31%"
+        }
+    },
+    {
+        "CGRA4": {
+            "cotacion": "R$ 25,90",
+            "variation": "-2,74%",
+            "pricePerL": "6,06",
+            "pricePerVp": "0,59",
+            "yield": "5,54%"
+        }
+    },
+    {
+        "PTNT4": {
+            "cotacion": "R$ 7,39",
+            "variation": "20,62%",
+            "pricePerL": "33,55",
+            "pricePerVp": "0,95",
+            "yield": "1,45%"
+        }
+    },
+    {
+        "RNEW11": {
+            "cotacion": "R$ 4,21",
+            "variation": "-33,07%",
+            "pricePerL": "0,57",
+            "pricePerVp": "0,43",
+            "yield": "-"
+        }
+    },
+    {
+        "RPMG3": {
+            "cotacion": "R$ 2,05",
+            "variation": "27,33%",
+            "pricePerL": "-0,17",
+            "pricePerVp": "-0,03",
+            "yield": "-"
+        }
+    },
+    {
+        "EMAE4": {
+            "cotacion": "R$ 60,98",
+            "variation": "32,48%",
+            "pricePerL": "24,40",
+            "pricePerVp": "1,94",
+            "yield": "5,40%"
+        }
+    },
+    {
+        "BEES4": {
+            "cotacion": "R$ 10,11",
+            "variation": "55,36%",
+            "pricePerL": "9,29",
+            "pricePerVp": "1,52",
+            "yield": "6,51%"
+        }
+    },
+    {
+        "WHRL3": {
+            "cotacion": "R$ 4,29",
+            "variation": "2,68%",
+            "pricePerL": "18,10",
+            "pricePerVp": "2,52",
+            "yield": "7,93%"
+        }
+    },
+    {
+        "RSUL4": {
+            "cotacion": "R$ 78,80",
+            "variation": "45,02%",
+            "pricePerL": "7,87",
+            "pricePerVp": "2,69",
+            "yield": "3,78%"
+        }
+    },
+    {
+        "NORD3": {
+            "cotacion": "R$ 12,02",
+            "variation": "87,81%",
+            "pricePerL": "-10,60",
+            "pricePerVp": "-0,51",
+            "yield": "-"
+        }
+    },
+    {
+        "FESA3": {
+            "cotacion": "R$ 14,06",
+            "variation": "-0,98%",
+            "pricePerL": "10,36",
+            "pricePerVp": "1,53",
+            "yield": "4,21%"
+        }
+    },
+    {
+        "MTSA4": {
+            "cotacion": "R$ 46,15",
+            "variation": "10,73%",
+            "pricePerL": "4,65",
+            "pricePerVp": "0,94",
+            "yield": "7,52%"
+        }
+    },
+    {
+        "RPAD5": {
+            "cotacion": "R$ 8,19",
+            "variation": "17,00%",
+            "pricePerL": "10,45",
+            "pricePerVp": "0,65",
+            "yield": "-"
+        }
+    },
+    {
+        "EALT4": {
+            "cotacion": "R$ 10,19",
+            "variation": "57,17%",
+            "pricePerL": "6,79",
+            "pricePerVp": "0,99",
+            "yield": "6,02%"
+        }
+    },
+    {
+        "BAZA3": {
+            "cotacion": "R$ 89,59",
+            "variation": "54,97%",
+            "pricePerL": "4,20",
+            "pricePerVp": "0,86",
+            "yield": "5,96%"
+        }
+    },
+    {
+        "PINE3": {
+            "cotacion": "R$ 4,90",
+            "variation": "-39,58%",
+            "pricePerL": "4,66",
+            "pricePerVp": "0,93",
+            "yield": "2,05%"
+        }
+    },
+    {
+        "CTSA3": {
+            "cotacion": "R$ 3,15",
+            "variation": "41,89%",
+            "pricePerL": "-2,95",
+            "pricePerVp": "0,63",
+            "yield": "-"
+        }
+    },
+    {
+        "CLSC4": {
+            "cotacion": "R$ 65,67",
+            "variation": "37,00%",
+            "pricePerL": "4,43",
+            "pricePerVp": "0,79",
+            "yield": "3,36%"
+        }
+    },
+    {
+        "RPAD6": {
+            "cotacion": "R$ 8,20",
+            "variation": "36,67%",
+            "pricePerL": "10,46",
+            "pricePerVp": "0,65",
+            "yield": "-"
+        }
+    },
+    {
+        "EALT3": {
+            "cotacion": "R$ 9,30",
+            "variation": "19,80%",
+            "pricePerL": "6,19",
+            "pricePerVp": "0,90",
+            "yield": "6,22%"
+        }
+    },
+    {
+        "BRIV3": {
+            "cotacion": "R$ 11,30",
+            "variation": "24,86%",
+            "pricePerL": "191,39",
+            "pricePerVp": "0,60",
+            "yield": "2,47%"
+        }
+    },
+    {
+        "APER3": {
+            "cotacion": "R$ 44,50",
+            "variation": "67,72%",
+            "pricePerL": "34,37",
+            "pricePerVp": "1,07",
+            "yield": "0,73%"
+        }
+    },
+    {
+        "CRIV3": {
+            "cotacion": "R$ 6,13",
+            "variation": "22,36%",
+            "pricePerL": "27,06",
+            "pricePerVp": "0,60",
+            "yield": "3,37%"
+        }
+    },
+    {
+        "PLAS3": {
+            "cotacion": "R$ 8,00",
+            "variation": "-11,11%",
+            "pricePerL": "6,92",
+            "pricePerVp": "-0,28",
+            "yield": "-"
+        }
+    },
+    {
+        "NEXP3": {
+            "cotacion": "R$ 4,94",
+            "variation": "-6,26%",
+            "pricePerL": "-0,14",
+            "pricePerVp": "-0,09",
+            "yield": "-"
+        }
+    },
+    {
+        "OFSA3": {
+            "cotacion": "R$ 21,00",
+            "variation": "-19,36%",
+            "pricePerL": "-48,50",
+            "pricePerVp": "1,69",
+            "yield": "2,28%"
+        }
+    },
+    {
+        "HOOT4": {
+            "cotacion": "R$ 2,83",
+            "variation": "139,83%",
+            "pricePerL": "0,41",
+            "pricePerVp": "-0,25",
+            "yield": "-"
+        }
+    },
+    {
+        "EQPA3": {
+            "cotacion": "R$ 7,82",
+            "variation": "30,23%",
+            "pricePerL": "8,20",
+            "pricePerVp": "3,89",
+            "yield": "1,86%"
+        }
+    },
+    {
+        "ATMP3": {
+            "cotacion": "R$ 3,00",
+            "variation": "165,49%",
+            "pricePerL": "0,31",
+            "pricePerVp": "-4,78",
+            "yield": "-"
+        }
+    },
+    {
+        "UNIP5": {
+            "cotacion": "R$ 69,01",
+            "variation": "-18,08%",
+            "pricePerL": "9,24",
+            "pricePerVp": "2,55",
+            "yield": "4,89%"
+        }
+    },
+    {
+        "MGEL4": {
+            "cotacion": "R$ 13,60",
+            "variation": "11,48%",
+            "pricePerL": "0,37",
+            "pricePerVp": "3,34",
+            "yield": "-"
+        }
+    },
+    {
+        "MOAR3": {
+            "cotacion": "R$ 390,00",
+            "variation": "-7,73%",
+            "pricePerL": "5,40",
+            "pricePerVp": "3,13",
+            "yield": "4,51%"
+        }
+    },
+    {
+        "BAHI3": {
+            "cotacion": "R$ 6,70",
+            "variation": "-46,78%",
+            "pricePerL": "-2,18",
+            "pricePerVp": "4,10",
+            "yield": "-"
+        }
+    },
+    {
+        "BGIP4": {
+            "cotacion": "R$ 26,50",
+            "variation": "18,83%",
+            "pricePerL": "7,58",
+            "pricePerVp": "0,76",
+            "yield": "14,52%"
+        }
+    },
+    {
+        "WLMM3": {
+            "cotacion": "R$ 24,35",
+            "variation": "17,60%",
+            "pricePerL": "8,39",
+            "pricePerVp": "1,32",
+            "yield": "3,44%"
+        }
+    },
+    {
+        "CRPG6": {
+            "cotacion": "R$ 36,49",
+            "variation": "53,47%",
+            "pricePerL": "15,92",
+            "pricePerVp": "1,53",
+            "yield": "2,41%"
+        }
+    },
+    {
+        "BGIP3": {
+            "cotacion": "R$ 26,50",
+            "variation": "14,89%",
+            "pricePerL": "7,58",
+            "pricePerVp": "0,76",
+            "yield": "12,95%"
+        }
+    },
+    {
+        "BRGE6": {
+            "cotacion": "R$ 12,00",
+            "variation": "4,62%",
+            "pricePerL": "30,15",
+            "pricePerVp": "0,67",
+            "yield": "-"
+        }
+    },
+    {
+        "SOND5": {
+            "cotacion": "R$ 50,75",
+            "variation": "63,06%",
+            "pricePerL": "10,02",
+            "pricePerVp": "2,17",
+            "yield": "11,29%"
+        }
+    },
+    {
+        "CPLE5": {
+            "cotacion": "R$ 21,92",
+            "variation": "-1,87%",
+            "pricePerL": "32,67",
+            "pricePerVp": "2,81",
+            "yield": "1,10%"
+        }
+    },
+    {
+        "FRIO3": {
+            "cotacion": "R$ 341,00",
+            "variation": "1.303,29%",
+            "pricePerL": "-13,53",
+            "pricePerVp": "-3,18",
+            "yield": "-"
+        }
+    },
+    {
+        "BNBR3": {
+            "cotacion": "R$ 117,00",
+            "variation": "53,02%",
+            "pricePerL": "4,47",
+            "pricePerVp": "0,98",
+            "yield": "3,10%"
         }
     }
 ]

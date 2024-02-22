@@ -1,23 +1,11 @@
-import axios from "axios";
 import fs from "fs";
 import { createWorker } from "./utils/createWorker.js";
+import { getStocks } from './api/apiCalls.js'
 
 const THREADS = 4;
-const stockSearch = [70, 70, 70, 70];
+const stockSearch = [300, 300, 300, 300];
 const workersPromises = [];
 const arrayToJson = []
-
-const getStocks = async () => {
-  try {
-    const { data } = await axios.get(
-      "https://brapi.dev/api/available?search=&token=eJGEyu8vVHctULdVdHYzQd"
-    );
-    const { stocks } = data;
-    return stocks;
-  } catch (err) {
-    console.log(err);
-  }
-};
 
 // I GETT BANNED USING THIS :(
 
@@ -45,7 +33,7 @@ for (let i = 0; i < workPromisesResult.length; i++) {
 }
 
 fs.writeFile(
-  "../data.json",
+  "./data.json",
   JSON.stringify(arrayToJson, null, 4),
   "utf8",
   (err) => {
@@ -53,4 +41,4 @@ fs.writeFile(
   }
 );
 
-console.log("all good!, time: " + performance.now());
+console.log("all good!");
