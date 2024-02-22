@@ -1,0 +1,38 @@
+[
+    {
+        "MGLU3": {
+            "cotacion": "R$ 1,96",
+            "variation": "-46,45%",
+            "pricePerL": "-33,27",
+            "pricePerVp": "1,39",
+            "yield": "-"
+        }
+    },
+    {
+        "HAPV3": {
+            "cotacion": "R$ 3,39",
+            "variation": "-33,40%",
+            "pricePerL": "-24,95",
+            "pricePerVp": "0,52",
+            "yield": "-"
+        }
+    },
+    {
+        "OIBR3": {
+            "cotacion": "R$ 1,42",
+            "variation": "-29,70%",
+            "pricePerL": "-0,04",
+            "pricePerVp": "-0,03",
+            "yield": "-"
+        }
+    },
+    {
+        "AMER3": {
+            "cotacion": "R$ 0,53",
+            "variation": "-54,70%",
+            "pricePerL": "-0,04",
+            "pricePerVp": "-0,02",
+            "yield": "-"
+        }
+    }
+]
