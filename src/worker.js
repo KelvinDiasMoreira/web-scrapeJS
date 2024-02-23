@@ -6,7 +6,7 @@ import { newNames, searchInArray } from "./helpers/helpersObjects.js";
 const setItensArray = searchInArray.map((_, i) => ({
   [i === 0 ? i : i % 2 === 0 && i]: { name: `${newNames[i]}` },
 }));
-
+const stockFailed = []
 const dataToJson = [];
 
 const URL = MISTERY
@@ -33,6 +33,7 @@ const extractData = async (stockToSearch) => {
     console.log(`Success on getting data of stock: ${stockToSearch}`);
   } catch (err) {
     if (err) {
+      stockFailed.push(stockToSearch)
       console.log(`not found stock ${stockToSearch}`);
     }
   }

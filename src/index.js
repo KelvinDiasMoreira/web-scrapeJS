@@ -3,23 +3,27 @@ import { createWorker } from "./utils/createWorker.js";
 import { getStocks } from './api/apiCalls.js'
 
 const THREADS = 4;
-const stockSearch = [300, 300, 300, 300];
 const workersPromises = [];
 const arrayToJson = []
 
 // I GETT BANNED USING THIS :(
 
-const stocks = await getStocks();
-if (!stocks.length) {
-  throw new Error("Not found stocks to search");
-}
+let stocks = await getStocks()
+
+if (!stocks.length) throw new Error("Not found stocks to search or");
+
+if(stocks.length % THREADS !== 0) throw new Error("Can't set a number to search to each THREADS");
+
+
+const divisionCotacionsToSearch = Array.from({length: THREADS}, (_,) => stocks.length / THREADS)
 
 for (let i = 0; i < THREADS; i++) {
   workersPromises.push(
     createWorker(
       stockSearch[i],
       stocks.length,
-      stocks.splice(0, stockSearch[i])
+      stocks.splice(0, divisionCotacionsToSearch[i]),
+      i
     )
   );
 }
