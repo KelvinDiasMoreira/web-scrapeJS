@@ -1,5 +1,4 @@
 import fs from "fs";
-import axios from 'axios'
 import { createWorker } from "./utils/createWorker.js";
 import { getStocks } from "./api/apiCalls.js";
 
