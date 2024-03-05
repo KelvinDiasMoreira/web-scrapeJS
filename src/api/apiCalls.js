@@ -3,7 +3,7 @@ import axios from "axios";
 export const getStocks = async () => {
   try {
     const { data } = await axios.get(
-      MISTERY
+     MISTERY
     );
     const { stocks } = data;
     return stocks.filter((stock) => stock.length === 5);
